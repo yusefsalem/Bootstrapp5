@@ -1,0 +1,60 @@
+html,
+
+body {
+    height: 100% ;
+    font-size: 1rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+.gradient {
+    background: rgb(40,21,131);
+background: linear-gradient(90deg, rgba(40,21,131,0.8562018557422969) 30%, rgba(36,108,171,1) 100%);
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: black;
+}
+
+.feature {
+    color:black;
+
+}
+
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+
+.icon {
+    color:white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: incline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery {
+    background-color: whitesmoke;   
+}
+
+.gallery img {
+    border-radius: 5%;
+}
+
+.services {
+    color :white
+}
+
+footer {
+    color:white;
+    font-size: 1 rem;
+    margin: 0;
+    padding: 1rem;
+}
